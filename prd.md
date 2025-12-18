@@ -39,11 +39,9 @@ Create a professional markdown document with the following sections. Use clear h
    - Define core attributes for each entity (business perspective, not technical schema).
    - Specify data validation rules and constraints.
 6. **Future Enhancements (Post-MVP)**:
-   - List all features from questions the user answered 'f' (or that defaulted to 'future').
    - This section acts as a preliminary backlog.
    - Briefly describe each future enhancement and why it was deferred.
 7. **Out of Scope**:
-   - List all features from questions the user answered 'n' (or that defaulted to 'out-of-scope').
    - This clarifies what the project will *not* do, which is crucial for managing expectations.
 8. **Risks & Open Questions**:
    - Flag any requirements that need further clarification.
